@@ -1,6 +1,6 @@
 # What is STASE ?
 
-_STASE_ provides a set of metrics to describe a dataset of malware labels.
+STASE provides a set of metrics to describe a dataset of malware labels.
 
 __Goal__:
 * evaluate the properties of malware datasets
